@@ -1,5 +1,3 @@
-# Playwright BDD Automation
-
 This project automates email validation using Playwright with BDD.
 
 1. Install dependencies: `npm install`  
